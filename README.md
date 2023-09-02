@@ -1,4 +1,4 @@
-### Hi there 👋
+### Miau
 
  ## 🤖 Technology & tools:  
   [![My Skills](https://skillicons.dev/icons?i=python,kotlin,swift,vscode&perline=50)](https://skillicons.dev)
